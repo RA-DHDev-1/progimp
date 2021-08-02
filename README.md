@@ -1,2 +1,2 @@
 # progimp
-Conteúdo de Programação Interativa - Digital House - CTD
+Conteúdo de Programação Imperativa - Digital House - CTD
